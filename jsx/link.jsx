@@ -1,0 +1,1 @@
+const Link = props => <a href={props.href}>{props.text}</a>
